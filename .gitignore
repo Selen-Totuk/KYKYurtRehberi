@@ -1,0 +1,16 @@
+# Expo
+.expo/
+.expo-shared/
+node_modules/
+
+# Ortam değişkenleri
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Diğer
+dist/
+*.log
